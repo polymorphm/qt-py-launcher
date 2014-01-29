@@ -1,6 +1,14 @@
-__pycache__
+*.pyc
+*.pyo
+*.o
 /Makefile
-/qt-py-launcher.o
 /qt-py-launcher
 /python
 /qt_py_launcher.py
+
+# Microsoft Windows specific:
+*.pdb
+/Makefile.Debug
+/Makefile.Release
+/debug
+/release
