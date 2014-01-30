@@ -12,7 +12,7 @@ like unicode application arguments.
 Current status
 --------------
 
-Version for developers.
+Beta version (0.1).
 
 
 Microsoft Windows
